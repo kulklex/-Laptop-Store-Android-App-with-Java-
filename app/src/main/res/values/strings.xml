@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">LenovoLaptops</string>
+    <string-array name="laptop">
+        <item>Yoga Creator 7i</item>
+        <item>Yoga Slim 7i Carbon(13)</item>
+        <item>ThinkBook 13x</item>
+        <item>Legion 7 Gen 6</item>
+        <item>IdeaPad\nGaming(15)</item>
+        <item>Lenovo 500e Chrome</item>
+
+    </string-array>
+
+    <string name="Creator_7i">
+        specifications:\n\n
+        Processor:	Up to 10th Gen Intel® Core™ i7 \n
+Operating System: Windows 10 Home\n
+Graphics :NVIDIA® GTX1650 graphics\n
+Display:15.6" FHD (1920 x 1080) IPS, 300 nits, sRGB 100%, Dolby Vision™ HDR, optional glass display\n
+Memory:\n	Up to 16GB
+Battery : 1080p Video Playback: Up to 16 hours\n
+MobileMark® 2014: Average 13 hours1
+Rapid Charge2\n
+1All battery life claims are approximate and based on results using the MobileMark® 2014 battery life benchmark test. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.
+2Rapid Charge: Charge 15 minutes in standby mode or while powered off, for up to 3 hours of use based on test results using the MobileMark® 2014 ver. 1.5 battery life benchmark test.
+Storage	: Up to 1TB PCIe SSD\n
+Audio :Front-facing Dolby Atmos® Speaker System (above keyboard)
+2x D-cover speakers\n
+Camera:	IR camera
+Dimensions (H x W x D)	Starting at 355.5mm x 230mm x 15.9mm - 17.2mm / 14" x 9.05" x 0.63" - 0.68"\n
+Weight:	Starting at 1.8kg / 4lbs\n
+Connectivity:WiFi 6 (2x2 802.11 ax)
+Ports / Slots
+2 x USB-A 3.2 Gen 1
+USB-C  (Thunderbolt 3.0 + USB 2.3 Gen 2 + DisplayPort™ 1.4b + PD 3.0)
+SD card reader
+HDMI
+Power input
+Headphone / mic combo
+Keyboard:	Backlit\n
+Color:	Dark Moss\n
+    </string>
+
+    <string name="action_settings" />
+    <string name="Carbon_13">
+        specifications:\n\n
+      Processor: Up to 11th Gen Intel® Core™ i7\n
+Operating System: Windows 10 Home\n
+Display: 13.3" QHD (2560 x 1600) with Dolby Vision™, 300 nits, 72% NTSC, 100% sRGB, TÜV Rheinland-certified for eye protection\n
+Memory: Up to 16GB LPDDR4X dual channel\n
+Storage: Up to 1TB M.2 PCIe SSD\n
+Graphics: Intel® Iris® Xe\n
+Battery: All-day battery life\n
+Rapid-charging: available with 65W adapter\n
+Audio: 2 x 2W Harman Kardon® speakers, optimized with Dolby Atmos® 2 x digital mics\n
+Dimensions: (H x W x D)13.9mm-14.9mm x 296.9mm x 208.55mm / 0.5"-0.58" x 11.7" x 8.2"\n
+Weight: Less than 1kg / 2.2lbs\n
+Color: Moon White\n
+Connectivity: Intel® 2x2 802.11ax WiFi 6\n
+Bluetooth®:  5.0\n
+Ports / Slots: USB 3.0 Gen 1 (Type-C), 2 x USB-C Thunderbolt™ 4 (1 x DisplayPort / power delivery), Headphone / mic combo, USB port transfer speeds are approximate and depend on many factors, such as processing capability of host/peripheral devices, file attributes, system configuration and operating environments; actual speeds will vary and may be less than expected.\n
+Camera: Infrared (IR)\n
+Power Supply:  Unit65W, supports rapid charging\n
+Digital Assistants: Alexa (available in select regions), Cortana\n
+Keyboard: Full-sized,Backlit\n
+
+    </string>
+
+    <string name="Thinkbook_13x">
+        specifications:\n\n Processor: Up to 11th Gen Intel® Core™ i7\n
+Operating System: Windows 10 Pro, Lenovo recommends Windows 10 Pro for business\n
+Display 13.3" 16:10 WQXGA (2560 × 1600) Touch IPS, antiglare, 400 nits, 100% sRGB, Corning® Gorilla® Glass, TÜV Rheinland Low Blue Light-certified, with Dolby Vision™,
+13.3" 16:10 WQXGA (2560 × 1600) IPS, antiglare, 400 nits, 100% sRGB, Corning® Gorilla® Glass, TÜV Rheinland Low Blue Light-certified, with Dolby Vision™\n
+Memory: Up to 16GB dual-channel LPDDR4x (soldered)\n
+Battery: Up to 12.5 hours 53Wh (MM2018)\n
+Rapid Charge: supported with included 65W adapter\n
+*All battery life claims are approximate and based on results using the MobileMark® 2018 battery-life benchmark tests. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.
+Storage: Up to 1TB M.2 PCIe Gen 4 SSD\n
+Graphics: Integrated Intel® Iris® Xe\n
+Security: Discrete Trusted Platform Module (dTPM) 2.0\n
+Smart Power:  On match-on-host fingerprint reader integrated with power button\n
+Webcam:  privacy shutter\n
+Self-healing BIOS\n
+Audio: 2 x 2W Harman Kardon® speakers with Dolby Atmos®, 4 x noise-cancelling microphones (360° near-field)\n
+Camera: 720p HD with webcam privacy shutter\n
+Dimensions:  (H x W x D)12.9mm x 298mm x 209mm / 0.50" x 11.73" x 8.22"\n
+Weight: Starting at 1.13kg / 2.49lbs\n
+Color: Dual-tone Storm Gray with all-aluminum top cover, Dual-tone Cloud Gray with all-aluminum top cover\n
+Connectivity: WiFi 6, Bluetooth® 5.2\n
+Ports / Slots: 2 x USB-C Thunderbolt™ 4, Headphone / mic combo, USB port transfer speeds are approximate and depend on many factors, such as processing capability of host/peripheral devices, file attributes, system configuration and operating environments; actual speeds will vary and may be less than expected.\n
+Keyboard: Full-size backlit keyboard,One-piece precision TouchPad, Call-control keys\n
+Power Supply Unit (PSU): USB-C 65W Slim Adapter, Optional USB-C 65W Wall Mount Adapter, Supports Rapid Charge\n
+Preloaded Software: Lenovo Vantage, AI Meeting Manager,McAfee® LiveSafe™ (trial), Office 365 (trial)\n
+    </string>
+
+    <string name="Legion_7">
+        Specifications: \n\n
+Processor: Up to AMD Ryzen™ 9 5900H
+Operating System: Up to Windows 10 Pro
+Graphics: NVIDIA ® GeForce RTX™ 3080 Laptop GPU 16GB GDDR6, Listed Boost Clock 1545MHz, Achieved Boost Clock 1710MHz, Maximum Graphics Power 165W, NVIDIA ® GeForce RTX™ 3070 Laptop GPU 8GB GDDR6, Listed Boost Clock 1560MHz, Achieved Boost Clock 1620MHz, Maximum Graphics Power 140W,
+NVIDIA ® GeForce RTX™ 3060 Laptop GPU 6GB GDDR6, Listed Boost Clock 1425MHz, Achieved Boost Clock 1702MHz, Maximum Graphics Power 130W\n
+Display: 16" QHD (2560 x 1600) IPS, 16:10, 165Hz, 3ms response time, 100% sRGB, up to VESA DIsplayHDR™ 400 certified, Dolby Vision™-enabled, NVIDIA ® G-SYNC™ support, 500 nits\n
+Memory: Up to 32GB\n
+Battery:  Up to 8 hours* (MM18)\n
+Rapid Charge Express\n
+* All battery life claims are approximate and based on results using the MobileMark ® 2018 v1.0.2.46 battery life benchmark test. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.
+Storage: Up to 2TB M.2 NVMe PCIe SSD\n
+Audio: 2 x 2W Harman speakers with Nahimic Audio\n
+Camera: 720p with E-Shutter\n
+Dimensions: (W x D x H)20.1-23.5mm x 356mm x 261.04mm / 0.79-0.93" x 14.01" x 10.27"\n
+Weight: Starting at 2.5kg / 5.5lbs\n
+Color: Storm Grey\n
+Connectivity:  Killer™ WiFi AX1650 (2x2) (optional), 2x2 WiFi 802.11ax, Bluetooth ® 5.1\n
+Ports / SlotsLeft: USB Type-C (USB 3.2 Gen 2, DisplayPort™ 1.4)\n
+Headphone / mic jack: Right USB Type-C (USB 3.2 Gen 1), E-Shutter button, Rear 3 x USB-A 3.2 Gen 1 (always on 5V), USB Type-C (USB 3.2 Gen 2, DisplayPort™ 1.4, power delivery), HDMI 2.1,
+RJ45.\n
+Power in: USB port transfer speeds are approximate and depend on many factors, such as processing capability of host/peripheral devices, file attributes, system configuration and operating environments; actual speeds will vary and may be less than expected.
+Keyboard: Corsair ® iCUE RGB 
+Power Supply Unit: (PSU)300W Slim Adapter
+Preloaded Software: Lenovo Vantage, Corsair ® iCue RGB Application, Pantone X-Rite Color Management System, Nahimic Audio for Gamers, Tobii Horizon
+    </string>
+
+    <string name="IdeaPad">
+        Specifications:\n\n
+Processor: AMD Ryzen™ 7 4800H mobile processor, AMD Ryzen™ 5 4800H mobile processor\n
+Operating System: Windows 10 Pro\n
+Memory: Up to 32GB DDR4 3200MHz\n
+Display: 15.6″ FHD (1920 x 1080) IPS, 120Hz, 45% NTSC, 250 nits,15.6″ FHD (1920 x 1080) IPS, 60Hz, 45% NTSC, 250 nits\n
+Battery: Up to 6.7 hours, with Rapid Charge*\n
+*All battery life claims are approximate and based on results using the MobileMark® 2018 v1.0.2.46 battery life benchmark test. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.\n
+Storage: M.2 PCIe SSD: Up to 1TB, 2.5" SATA HDD 5400 RPM: 1TB, Optional SSD + HDD hybrid storage\n
+Graphics: NVIDIA® GeForce® GTX 1650 Ti; 4GB, NVIDIA® GeForce® GTX 1650; 4GB\n
+Audio: 2 x 1.5W speakers with Dolby Audio™\n
+Webcam , microphone array\n
+Camera: 720 HD webcam with privacy shutter\n
+Dimensions:  (W x D x H) Starting at 359mm x 249.6mm x 24.9mm / 14.13" x 9.83" x .98"\n
+Weight: Starting at 2.2kg / 4.8lbs\n
+Color: Chameleon Blue, Onyx Black\n
+Connectivity: WiFi 802.11 ac, Bluetooth® 5.1\n
+Ports/Slots: 2 x USB-A 3.1 Gen 1, USB-C 3.1, HDMI 2.0, RJ45,Headphone / mic combo\n
+Keyboard: Blue backlit gaming keyboard\n
+AC Adapter: 135W Adapter,
+Preloaded Software: Lenovo Antivirus Plus, Lenovo PC Manager, Lenovo Utility, LinkedIn, McAfee LiveSafe™, Microsoft Office
+    </string>
+
+    <string name="Lenovo_500e">
+        Specifications:\n\n
+       Processor: Intel® Celeron® N3450, Intel Celeron N4100\n
+Operating System: Chrome OS™\n
+Display: 11.6” HD (1366 x 768) 10-point multitouch\n
+Graphics: Intel® Integrated Graphics\n
+Battery: Up to 10 hrs with 42 Whr battery\n
+Camera: 720p HD front-facing, 5MP HD world-facing\n
+Memory: 4 GB, 8 GB\n
+Storage: 32 GB eMMc, 64 GB eMMc\n
+Ports: 2 USB-C,2 USB 3.0, Micro SD card reader, Audio combo jack\n
+Connectivity: 802.11 AC 2 x 2 WiFi, Bluetooth® 4.2\n
+Dimensions:  (W x H x D) 290 x 204 x 20.35 mm / 11.41" x 8.03" x 0.8"\n
+Weight: 1.35kg / 2.97lbs \n
+    </string>
+</resources>
